@@ -41,44 +41,10 @@
 						}
 					]
 				},
-				{
-					"type": "LayerGroup",
-					"title": "メッシュ",
-					"open": false,
-					"toggleall": false,
-					"entries": [
-						{
-							"type": "Layer",
-							"id": "mesh2",
-							"title": "2次メッシュ",
-							"iconUrl": "http://cyberjapandata.gsi.go.jp/portal/site/mapuse4/js/skin/photo.png",
-							"url": "http://www2.chuogeomatics.jp/drmmap/tms/1.0.0/mesh2@g20/{z}/{x}/{y}.png",
-							"tms": true,
-							"subdomains": "",
-							"attribution": "",
-							"cocotile": true,
-							"minZoom": 8,
-							"legendUrl": "",
-							"html": ""
-						},
-						{
-							"type": "Layer",
-							"id": "mesh1",
-							"title": "1次メッシュ",
-							"iconUrl": "http://cyberjapandata.gsi.go.jp/portal/site/mapuse4/js/skin/photo.png",
-							"url": "http://www2.chuogeomatics.jp/drmmap/tms/1.0.0/mesh1@g20/{z}/{x}/{y}.png",
-							"tms": true,
-							"subdomains": "",
-							"attribution": "",
-							"cocotile": true,
-							"minZoom": 1,
-							"legendUrl": "",
-							"html": ""
-						}
-					]
-				}
 
 			],
+			"open": false,
+			"toggleall": false
 		}
 	]
 }
