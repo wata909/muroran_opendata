@@ -8,17 +8,17 @@
 			"entries": [
 				{
 					"type": "Layer",
-					"id": "vege",
-					"title": "第5回植生図",
-					"iconUrl": "http://www.ecoris.co.jp/favicon.png",
-					"url": "http://map.ecoris.info/tiles/vege/{z}/{x}/{y}.png",
+					"id": "photo",
+					"title": "オルソ画像　平成25年11月24日撮影",
+					"iconUrl": "http://www.city.muroran.lg.jp/favicon.ico",
+					"url": "http://habs.dc.affrc.go.jp/FOSS4G/muroran_tile/{z}/{x}/{y}.png",
 					"subdomains": "",
-					"attribution": "ecoris",
+					"attribution": "むろらんオープンデータライブラリ",
 					"cocotile": false,
-					"maxZoom": "15",
-					"maxNativeZoom": "15",
+					"maxZoom": "20",
+					"maxNativeZoom": "20",
 					"legendUrl": "",
-					"html": ""
+					"html": "http://www.city.muroran.lg.jp/main/org2260/odlib.php"
 				},
 				{
 					"type": "Layer",
