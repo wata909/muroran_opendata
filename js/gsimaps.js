@@ -22,7 +22,9 @@ CONFIG.layers = [
 	'./layers_txt/layers1.txt',
 	'./layers_txt/layers2.txt',
 	'./layers_txt/layers3.txt',
-	'./layers_txt/layers4.txt'
+	'./layers_txt/layers4.txt',
+	'./layers_txt/layers5.txt',
+	'./layers_txt/layers6.txt'
 ];
 
 
