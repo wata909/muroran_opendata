@@ -1,0 +1,40 @@
+{
+	"layers": [
+		{
+			"type": "LayerGroup",
+			"title": "むろらんオープンデータライブラリ",
+			"open": false,
+			"toggleall": false,
+			"entries": [
+				{
+					"type": "Layer",
+					"id": "vege",
+					"title": "第5回植生図",
+					"iconUrl": "http://www.ecoris.co.jp/favicon.png",
+					"url": "http://map.ecoris.info/tiles/vege/{z}/{x}/{y}.png",
+					"subdomains": "",
+					"attribution": "ecoris",
+					"cocotile": false,
+					"maxZoom": "15",
+					"maxNativeZoom": "15",
+					"legendUrl": "",
+					"html": ""
+				},
+				{
+					"type": "Layer",
+					"id": "vege67",
+					"title": "第6～7回 植生図",
+					"iconUrl": "http://www.ecoris.co.jp/favicon.png",
+					"url": "http://map.ecoris.info/tiles/vege67/{z}/{x}/{y}.png",
+					"subdomains": "",
+					"attribution": "ecoris",
+					"cocotile": false,
+					"maxZoom": "15",
+					"maxNativeZoom": "15",
+					"legendUrl": "",
+					"html": ""
+				}
+			]
+		}
+	]
+}
