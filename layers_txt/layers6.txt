@@ -7,23 +7,23 @@
 			"entries": [
 				{
 					"type": "LayerGroup",
-					"title": "段彩陰影",
+					"title": "むろらんオープンデータ",
 					"open": false,
 					"toggleall": false,
 					"entries": [
 						{
 							"type": "Layer",
-							"id": "dem_color_10m",
-							"title": "段彩陰影10m",
-							"iconUrl": "http://cyberjapandata.gsi.go.jp/portal/site/mapuse4/js/skin/photo.png",
-							"url": "http://www2.chuogeomatics.jp/drmmap/tms/1.0.0/kibandem_color@g20/{z}/{x}/{y}.png",
+							"id": "muroran_ortho",
+							"title": "オルソ画像　平成25年11月24日撮影",
+							"iconUrl": "http://www.city.muroran.lg.jp/favicon.ico",
+							"url": "http://habs.dc.affrc.go.jp/FOSS4G/muroran_tile/{z}/{x}/{y}.png",
 							"tms": true,
 							"subdomains": "",
-							"attribution": "",
+							"attribution": "むろらんオープンデータライブラリ",
 							"cocotile": true,
-							"minZoom": 8,
+							"minZoom": 15,
 							"legendUrl": "",
-							"html": "<div>この地図の作成に当たっては、国土地理院長の承認を得て、同院発行の基盤地図情報を使用した。（承認番号 平24業使、第312号）</div>"
+							"html": "<div><a href="http://www.city.muroran.lg.jp/main/org2260/odlib.php"></a>むろらんオープンデータライブラリ</div>"
 						},
 						{
 							"type": "Layer",
