@@ -21,6 +21,20 @@
 						},
 						{
 							"type": "Layer",
+							"id": "muroran_flood",
+							"title": "津波浸水深さ",
+							"iconUrl": "http://www.city.muroran.lg.jp/favicon.ico",
+							"url": "http://habs.dc.affrc.go.jp/FOSS4G/muroran_tsunami/{z}/{x}/{y}.png",
+							"tms": true,
+							"subdomains": "",
+							"attribution": "むろらんオープンデータライブラリ",
+							"cocotile": true,
+							"minZoom": 11,
+							"legendUrl": "",
+							"html": ""
+						},
+						{
+							"type": "Layer",
 							"id": "muroran_ortho",
 							"title": "避難地域までの距離",
 							"iconUrl": "http://www.city.muroran.lg.jp/favicon.ico",
