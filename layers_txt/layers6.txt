@@ -23,7 +23,7 @@
 							"cocotile": true,
 							"minZoom": 15,
 							"legendUrl": "",
-							"html": "<div><a href="http://www.city.muroran.lg.jp/main/org2260/odlib.php"></a>むろらんオープンデータライブラリ</div>"
+							"html": ""
 						},
 						{
 							"type": "Layer",
