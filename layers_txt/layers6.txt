@@ -1,8 +1,15 @@
 {
 	"layers": [
 		{
+			"type": "LayerGroup",
+			"title": "むろらんオープンデータ",
+			"iconUrl": "",
+			"entries": [
+				{
 					"type": "LayerGroup",
 					"title": "むろらんオープンデータ",
+					"open": false,
+					"toggleall": false,
 					"entries": [
 						{
 							"type": "Layer",
@@ -34,4 +41,10 @@
 						}
 					]
 				}
+
+			],
+			"open": false,
+			"toggleall": false
 		}
+	]
+}
