@@ -6,12 +6,6 @@
 			"iconUrl": "",
 			"entries": [
 				{
-					"type": "LayerGroup",
-					"title": "むろらんオープンデータ",
-					"open": false,
-					"toggleall": false,
-					"entries": [
-						{
 							"type": "Layer",
 							"id": "muroran_ortho",
 							"title": "オルソ画像　平成25年11月24日撮影",
@@ -38,8 +32,6 @@
 							"minZoom": 11,
 							"legendUrl": "",
 							"html": ""
-						}
-					]
 				}
 
 			],
