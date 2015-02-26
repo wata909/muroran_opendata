@@ -2,14 +2,14 @@
 	"layers": [
 		{
 			"type": "LayerGroup",
-			"title": "ƒGƒRƒŠƒX",
+			"title": "ã‚¨ã‚³ãƒªã‚¹",
 			"open": false,
 			"toggleall": false,
 			"entries": [
 				{
 					"type": "Layer",
 					"id": "vege",
-					"title": "‘æ5‰ñA¶}",
+					"title": "ç¬¬5å›æ¤ç”Ÿå›³",
 					"iconUrl": "http://www.ecoris.co.jp/favicon.png",
 					"url": "http://map.ecoris.info/tiles/vege/{z}/{x}/{y}.png",
 					"subdomains": "",
@@ -23,7 +23,7 @@
 				{
 					"type": "Layer",
 					"id": "vege67",
-					"title": "‘æ6`7‰ñ A¶}",
+					"title": "ç¬¬6ï½7å› æ¤ç”Ÿå›³",
 					"iconUrl": "http://www.ecoris.co.jp/favicon.png",
 					"url": "http://map.ecoris.info/tiles/vege67/{z}/{x}/{y}.png",
 					"subdomains": "",
@@ -37,7 +37,7 @@
 				{
 					"type": "Layer",
 					"id": "tanbo",
-					"title": "“c‚ñ‚Ú",
+					"title": "ç”°ã‚“ã¼",
 					"iconUrl": "http://www.ecoris.co.jp/favicon.png",
 					"url": "http://map.ecoris.info/tiles/tanbo/{z}/{x}/{y}.png",
 					"subdomains": "",
@@ -51,7 +51,7 @@
 				{
 					"type": "Layer",
 					"id": "sugihinoki",
-					"title": "ƒXƒMEƒqƒmƒLEƒTƒƒ‰A—Ñ",
+					"title": "ã‚¹ã‚®ãƒ»ãƒ’ãƒã‚­ãƒ»ã‚µãƒ¯ãƒ©æ¤æ—",
 					"iconUrl": "http://www.ecoris.co.jp/favicon.png",
 					"url": "http://map.ecoris.info/tiles/sugihinokihill/{z}/{x}/{y}.png",
 					"subdomains": "",
@@ -65,7 +65,7 @@
 				{
 					"type": "Layer",
 					"id": "vegehill",
-					"title": "‘æ5‰ñ A¶}i‰A‰e‹N•šj",
+					"title": "ç¬¬5å› æ¤ç”Ÿå›³ï¼ˆé™°å½±èµ·ä¼ï¼‰",
 					"iconUrl": "http://www.ecoris.co.jp/favicon.png",
 					"url": "http://map.ecoris.info/tiles/vegehill/{z}/{x}/{y}.png",
 					"subdomains": "",
@@ -79,7 +79,7 @@
 				{
 					"type": "Layer",
 					"id": "vege67hill",
-					"title": "‘æ6`7‰ñ A¶}i‰A‰e‹N•šj",
+					"title": "ç¬¬6ï½7å› æ¤ç”Ÿå›³ï¼ˆé™°å½±èµ·ä¼ï¼‰",
 					"iconUrl": "http://www.ecoris.co.jp/favicon.png",
 					"url": "http://map.ecoris.info/tiles/vege67hill/{z}/{x}/{y}.png",
 					"subdomains": "",
@@ -93,7 +93,7 @@
 				{
 					"type": "Layer",
 					"id": "tanbohill",
-					"title": "“c‚ñ‚Úi‰A‰e‹N•šj",
+					"title": "ç”°ã‚“ã¼ï¼ˆé™°å½±èµ·ä¼ï¼‰",
 					"iconUrl": "http://www.ecoris.co.jp/favicon.png",
 					"url": "http://map.ecoris.info/tiles/tanbohill/{z}/{x}/{y}.png",
 					"subdomains": "",
@@ -107,7 +107,7 @@
 				{
 					"type": "Layer",
 					"id": "sugihinokihill",
-					"title": "ƒXƒMEƒqƒmƒLEƒTƒƒ‰A—Ñi‰A‰e‹N•šj",
+					"title": "ã‚¹ã‚®ãƒ»ãƒ’ãƒã‚­ãƒ»ã‚µãƒ¯ãƒ©æ¤æ—ï¼ˆé™°å½±èµ·ä¼ï¼‰",
 					"iconUrl": "http://www.ecoris.co.jp/favicon.png",
 					"url": "http://map.ecoris.info/tiles/sugihinokihill/{z}/{x}/{y}.png",
 					"subdomains": "",
