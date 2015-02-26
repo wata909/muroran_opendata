@@ -3,8 +3,6 @@
 		{
 					"type": "LayerGroup",
 					"title": "むろらんオープンデータ",
-					"open": false,
-					"toggleall": false,
 					"entries": [
 						{
 							"type": "Layer",
