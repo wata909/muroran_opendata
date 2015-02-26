@@ -18,6 +18,7 @@
 					"maxZoom": "20",
 					"maxNativeZoom": "20",
 					"legendUrl": "",
+					"tms": "true",
 					"html": "http://www.city.muroran.lg.jp/main/org2260/odlib.php"
 				},
 				{
