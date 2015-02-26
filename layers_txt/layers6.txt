@@ -2,7 +2,7 @@
 	"layers": [
 		{
 			"type": "LayerGroup",
-			"title": "CGM",
+			"title": "むろらんオープンデータ",
 			"iconUrl": "",
 			"entries": [
 				{
@@ -21,23 +21,23 @@
 							"subdomains": "",
 							"attribution": "むろらんオープンデータライブラリ",
 							"cocotile": true,
-							"minZoom": 15,
+							"minZoom": 11,
 							"legendUrl": "",
 							"html": ""
 						},
 						{
 							"type": "Layer",
-							"id": "dem_color_5m",
-							"title": "段彩陰影5m",
-							"iconUrl": "http://cyberjapandata.gsi.go.jp/portal/site/mapuse4/js/skin/photo.png",
-							"url": "http://www2.chuogeomatics.jp/drmmap/tms/1.0.0/kibandem_color_5@g20/{z}/{x}/{y}.png",
+							"id": "muroran_ortho",
+							"title": "避難地域までの距離",
+							"iconUrl": "http://www.city.muroran.lg.jp/favicon.ico",
+							"url": "http://habs.dc.affrc.go.jp/FOSS4G/muroran_nige/{z}/{x}/{y}.png",
 							"tms": true,
 							"subdomains": "",
-							"attribution": "",
+							"attribution": "むろらんオープンデータライブラリ",
 							"cocotile": true,
-							"minZoom": 8,
+							"minZoom": 11,
 							"legendUrl": "",
-							"html": "<div>この地図の作成に当たっては、国土地理院長の承認を得て、同院発行の基盤地図情報を使用した。（承認番号 平24業使、第312号）</div>"
+							"html": ""
 						}
 					]
 				},
