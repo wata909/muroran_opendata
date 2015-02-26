@@ -17535,6 +17535,7 @@ GSI.MapLayerList = L.Class.extend( {
 			if ( ( info.maxZoom == 0 || info.maxZoom ) && info.maxZoom != "" ) options.maxZoom =info.maxZoom;
 			if ( info.maxNativeZoom && info.maxNativeZoom!="" ) options.maxNativeZoom =info.maxNativeZoom;
 			if ( info.attribution ) options.attribution =info.attribution;
+			if ( typeof info.tms !== "undefined" ) options.tms = info.tms;	// 2015-02-26 If true, inverses Y axis numbering for tiles (turn this on for TMS services).
 			//console.log( options );
 			info._visibleInfo.layer = new GSI.TileLayer(info.url,options);
 			if ( isHide)
