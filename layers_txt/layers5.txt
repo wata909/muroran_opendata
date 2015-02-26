@@ -7,7 +7,7 @@
 			"toggleall": false,
 			"entries": [
 				{
-					"type": "tms",
+					"type": "Layers",
 					"id": "photo",
 					"title": "オルソ画像　平成25年11月24日撮影",
 					"iconUrl": "http://www.city.muroran.lg.jp/favicon.ico",
