@@ -46,6 +46,18 @@
 							"minZoom": 11,
 							"legendUrl": "",
 							"html": ""
+						},
+						{
+					"type": "Layer",
+					"id": "tsunami_moku",
+					"title": "津波避難目標地点",
+					""iconUrl": "http://www.city.muroran.lg.jp/favicon.ico",
+					"url": "data/kml/tsunami_moku.kml",
+					"subdomains": "",
+					"attribution": "むろらんオープンデータライブラリ",
+					"cocotile": false,
+					"legendUrl": "",
+					"html": ""
 				}
 
 			],
