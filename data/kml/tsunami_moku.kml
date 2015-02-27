@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="tsunami_moku" id="tsunami_moku">
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+</Schema>
+<Folder><name>tsunami_moku</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>140.95132533865373,42.339089278354095</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>140.95568338918031,42.334522377775812</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>140.95438113852072,42.33269147745515</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>140.93336416842564,42.337346809698559</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>140.96667765958844,42.328151706516593</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>140.94645266018614,42.338461225609812</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>140.94940790888742,42.339495757446763</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>140.96015298180572,42.332235435886993</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>140.96258786631134,42.331844872900952</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>140.97017806500179,42.313606230373686</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>140.97544717862243,42.313396622339305</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>140.96741088192226,42.326515705433046</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>140.96778714896212,42.324536891425645</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>140.96959665796285,42.321595477464506</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>140.97069621008814,42.319600647958907</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">16</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>140.97082507086273,42.316213915770774</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>140.97098905347769,42.315211332240963</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>140.97044986139468,42.317919293506449</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>140.97115736258715,42.311133643510729</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>140.97076595805433,42.310093905744544</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>140.97432799336349,42.310410493969073</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>140.97653862997564,42.316384151031357</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>140.97009364819078,42.314112653973673</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">24</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>140.99281461195963,42.331236094809057</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">25</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>140.99515885669726,42.328047317813272</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">26</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>141.00701966203852,42.332023895473796</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">27</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>141.01256105853201,42.331595392986934</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>141.00028872500215,42.332937936480533</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">29</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>141.01484751158279,42.333797418648551</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>141.01700846533109,42.33649853414699</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">31</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>141.02024024194753,42.336483368690203</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">32</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>141.02073676291627,42.335389688665913</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">33</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>141.02110516651445,42.33492239042917</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">34</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>141.03736678043722,42.352277144372138</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">35</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>141.03721213314893,42.351637434011352</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">36</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>141.03151748407825,42.339389984963177</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">37</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>141.0439232690062,42.355110151389056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">38</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>141.04554254057956,42.354100408409124</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">39</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>141.04657510100762,42.353820592009711</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">40</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>141.03789182656598,42.352586254795746</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">41</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>141.0400750984511,42.351790656283931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">42</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>141.04172821559044,42.351675659895825</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">43</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>141.0428441503532,42.350915190279473</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">44</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>141.03991209391242,42.352672953173034</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">45</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>141.04049763941629,42.353697299225935</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">46</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>141.04073481753966,42.354267360581609</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>141.0403129175757,42.355107369989128</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">48</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>141.04213527574765,42.355119704431978</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">49</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>141.02722302431977,42.352842732324966</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">50</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>141.02629481222829,42.355269893130313</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">51</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>141.02747904273861,42.355664340398185</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>141.03127183278374,42.354987535322451</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">53</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>141.01920811121911,42.357902833977256</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">54</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>141.0202261597652,42.356711566362975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">55</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>141.02587520809081,42.352038924991973</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">56</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>141.02284678699158,42.353478763226178</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">57</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>141.01619366743344,42.356828186607252</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">58</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>141.01214056694292,42.355040540498464</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">59</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>141.00959742302953,42.354302744232626</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">60</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>141.02159170348472,42.354701913040628</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">61</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>141.03866841469511,42.363038412077181</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>141.03849460050321,42.364631329014045</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">63</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>141.03502978263199,42.356807065345684</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">64</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>141.04081574747713,42.360295951656433</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">65</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>141.03885809775198,42.35898881954602</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">66</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>140.9903514241505,42.360545425849367</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">67</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>140.9914407984335,42.361735502538984</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">68</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>140.98488853293034,42.363168269721626</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">69</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>140.99112473446132,42.363162966014968</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">70</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>140.99161292656507,42.362987739068963</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">71</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>140.97791910084626,42.361238843083548</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>140.98130689550135,42.365749770568392</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">73</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>140.98205046732917,42.365678883630004</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>140.98286608983838,42.364330924042576</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">75</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>140.92655369172536,42.373659549724593</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#tsunami_moku">
+		<SimpleData name="OBJECTID">76</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>140.91065621772859,42.376918075140658</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
