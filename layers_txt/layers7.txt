@@ -12,7 +12,7 @@
 			"type": "Layer",
 			"id": "",
 			"title": "津波避難目標",
-			"iconUrl": "",
+			"iconUrl": "http://www.city.muroran.lg.jp/favicon.ico",
 			"url": "data/kml/tsunami_moku.kml",
 			"subdomains": "",
 			"attribution": "むろらんオープンデータライブラリ",
