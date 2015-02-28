@@ -2,16 +2,16 @@
 	"layers": [
 		{
 			"type": "LayerGroup",
-			"title": "むろらんオープンデータライブラリ・KML",
-			"iconUrl": "",
+			"title": "むろらんオープンデータKML",
+			"iconUrl": "http://www.city.muroran.lg.jp/favicon.ico",
 			"open": false,
 			"toggleall": false,
 			"entries": []
 		},
 		{
-			"type": "KML",
-			"id": "",
-			"title": "津波避難目標",
+			"type": "Layer",
+			"id": "mokuhyou",
+			"title": "津波避難",
 			"iconUrl": "http://www.city.muroran.lg.jp/favicon.ico",
 			"url": "data/kml/tsunami_moku.kml",
 			"subdomains": "",
