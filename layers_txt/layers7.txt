@@ -7,7 +7,6 @@
 			"open": false,
 			"toggleall": false,
 			"entries": []
-		},
 		{
 			"type": "Layer",
 			"id": "",
@@ -19,6 +18,7 @@
 			"cocotile": false,
 			"legendUrl": "",
 			"html": ""
+		}
 		}
 	]
 }
