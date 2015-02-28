@@ -7,8 +7,9 @@
 			"open": false,
 			"toggleall": false,
 			"entries": []
+		},
 		{
-			"type": "Layer",
+			"type": "KML",
 			"id": "",
 			"title": "津波避難目標",
 			"iconUrl": "http://www.city.muroran.lg.jp/favicon.ico",
@@ -18,7 +19,6 @@
 			"cocotile": false,
 			"legendUrl": "",
 			"html": ""
-		}
 		}
 	]
 }
