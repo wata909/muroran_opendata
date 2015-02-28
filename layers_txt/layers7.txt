@@ -6,19 +6,20 @@
 			"iconUrl": "http://www.city.muroran.lg.jp/favicon.ico",
 			"open": false,
 			"toggleall": false,
-			"entries": []
-		},
-		{
-			"type": "Layer",
-			"id": "mokuhyou",
-			"title": "津波避難",
-			"iconUrl": "http://www.city.muroran.lg.jp/favicon.ico",
-			"url": "http://wata909.github.io/muroran_opendata/data/kml/tsunami_moku.kml",
-			"subdomains": "",
-			"attribution": "むろらんオープンデータライブラリ",
-			"cocotile": false,
-			"legendUrl": "",
-			"html": ""
+			"entries": [
+				{
+					"type": "Layer",
+					"id": "mokuhyou",
+					"title": "津波避難",
+					"iconUrl": "http://www.city.muroran.lg.jp/favicon.ico",
+					"url": "data/kml/tsunami_moku.kml",
+					"subdomains": "",
+					"attribution": "むろらんオープンデータライブラリ",
+					"cocotile": false,
+					"legendUrl": "",
+					"html": ""
+				}
+			]
 		}
 	]
 }
